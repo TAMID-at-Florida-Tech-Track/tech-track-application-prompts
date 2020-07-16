@@ -24,6 +24,7 @@ role (you would be considered for Senior/Junior Engineer if you do not get it).
 You only need to complete one of these challenges.
 
 ## Rules
+* You may complete the application in **any programming language.**
 * You may google whatever you would like (*yes, you really can do that in the
 real world!*). Just don't blatantly copy and paste an entire solution to a
 problem. If you did, you should be able to explain what it is doing! Never copy
