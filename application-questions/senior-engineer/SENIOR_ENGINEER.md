@@ -6,8 +6,11 @@ principles:
 * DRY (Don't Repeat Yourself!)
 * KISS (Keep It Simple Silly!)
 
+**You may complete the application in any coding language that you would like.**=
+
 ## Challenge 1: Sorting & Runtime
-Given two sorted arrays (*arr1*, *arr2*) and a number, *k*, create a method, `sortArrays` that returns a sorted array of the first *k* elements.
+Given two sorted arrays (*arr1*, *arr2*) and a number, *k*, create a method,
+`sortArrays` that returns a sorted array of the first *k* elements.
 
 > Bonus points if you can comment the space/time complexity of your method.
 > Bonus points if you do this in O(n).
@@ -197,19 +200,10 @@ this.
 ## Challenge 3: Debugging
 This program is supposed to calculate how much money you would have left
 if you were given a penny and multiplied it by 30 days.
-### Code Snippet:
-```
-public class Main {
-  public static void main(String args[]){
-      final int DAYS = 30;
-      double static money = 0.01
-      String day = 1;
-      for(day < days){
-        money = 2 * moey;
-        System.out.print("After day" + DAYS +"you have " + money);
-    }
-}
-```
+
+You can find the code in the `Debug.java` file.
+
+Your output should look exactly like the output below.
 
 ### Expected Output:
 ```

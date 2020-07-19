@@ -11,6 +11,8 @@ mentoring/teaching others. You should be able to well-document your code so it
 is easily readable so that a Senior/Junior Engineer could understand what you
 are doing.
 
+**You may complete the application in any coding language that you would like.**
+
 ## Challenge: To-Do List
 Due to the COVID-19 pandemic, time and motivation have become high-level
 theoretical concepts that no longer apply to every day life.
