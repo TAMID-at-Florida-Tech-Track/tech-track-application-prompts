@@ -8,7 +8,7 @@ principles:
 
 Part of the Tech Team Lead's responsibility is doing code reviews, and
 mentoring/teaching others. You should be able to well-document your code so it
-is easily readable so that a Senior/Junior Engineer could understand what you
+is easily readable so that a Senior/Junior Software Engineer could understand what you
 are doing.
 
 **You may complete the application in any coding language that you would like.**

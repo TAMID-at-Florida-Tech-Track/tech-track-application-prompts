@@ -18,9 +18,9 @@ Each application varies in their expected time length. Overall, all of these
 application challenges should take no longer than 4-5 hours. Treat it like a
 programming assignment.
 
-> If you apply for Senior Engineer, but do not get it, you can still be
-considered for a Junior Engineer role. This also applies to the Tech Team Lead
-role (you would be considered for Senior/Junior Engineer if you do not get it).
+> If you apply for Senior Software Engineer, but do not get it, you can still be
+considered for a Junior Software Engineer role. This also applies to the Tech Team Lead
+role (you would be considered for Senior/Junior Software Engineer if you do not get it).
 You only need to complete one of these challenges.
 
 ## Rules

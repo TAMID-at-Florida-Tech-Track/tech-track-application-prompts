@@ -160,16 +160,16 @@ There will be three engineering roles in the Tech Track.
 </details>
 <br />
 <details>
-  <summary><b>2. Senior Engineer</b></summary>
-  The Senior Engineers will be responsible for writing code, and pairing with
-  Junior Engineers. This person is looking to take on a mentorship role and
+  <summary><b>2. Senior Software Engineer</b></summary>
+  The Senior Software Engineers will be responsible for writing code, and pairing with
+  Junior Software Engineers. This person is looking to take on a mentorship role and
   be an active contributer to the Tech Consulting Track.
   <br />
   <br />
   <i>Must have:</i>
   <ul>
     <li>Taken at least COSI 12B</li>
-    <li>Be willing to mentor Junior Engineers</li>
+    <li>Be willing to mentor Junior Software Engineers</li>
   </ul>
 
   <i>Preferably:</i>
@@ -184,9 +184,9 @@ There will be three engineering roles in the Tech Track.
 </details>
 <br />
 <details>
-  <summary><b>3. Junior Engineer</b></summary>
-  The Junior Engineers will be responsible for writing code, and pairing with
-  Senior Engineers. This person is looking to work on a real technical project,
+  <summary><b>3. Junior Software Engineer</b></summary>
+  The Junior Software Engineers will be responsible for writing code, and pairing with
+  Senior Software Engineers. This person is looking to work on a real technical project,
   and get hands-on experience. They will be extremely eager to learn, and
   willing to put in the work with the support of the other engineers to learn
   what they need in order to quickly become active contributers.

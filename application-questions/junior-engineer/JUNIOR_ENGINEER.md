@@ -1,4 +1,4 @@
-# Junior Engineer Application
+# Junior Software Engineer Application
 For your application, it is highly recommended that you comment your code as
 clearly as possible. Make sure to remember important software engineering
 principles:
