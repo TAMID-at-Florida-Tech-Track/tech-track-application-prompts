@@ -3,10 +3,10 @@
 - [Application Project Intro](#application-project-intro)
   * [Introduction](#introduction)
   * [Rules](#rules)
-  * [Frequently Asked Questions (FAQ)](#frequently-asked-questions--faq-)
+  * [Frequently Asked Questions (FAQ)](#frequently-asked-questions-faq)
     + [Which role fits me?](#which-role-fits-me-)
-    + [I haven't taken *X* class, can I still be *Y*?](#i-haven-t-taken--x--class--can-i-still-be--y--)
-    + [Do I have to work on the project 5 hours a week?](#do-i-have-to-work-on-the-project-5-hours-a-week-)
+    + [I haven't taken X class, can I still be Y?](#i-havent-taken-x-class-can-i-still-be-y-)
+    + [Do I have to work on the project 5 hours a week?](#do-i-have-to-work-on-the-project-5-hours-a-week)
 
 
 ## Introduction    

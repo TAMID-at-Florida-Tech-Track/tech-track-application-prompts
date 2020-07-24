@@ -1,18 +1,18 @@
 # TAMID at Brandeis Tech Consulting Track
 
 - [TAMID at Brandeis Tech Consulting Track](#tamid-at-brandeis-tech-consulting-track)
-  * [What is the Tech Consulting Track?](#what-is-the-tech-consulting-track-)
-    + [How will it work?](#how-will-it-work-)
+  * [What is the Tech Consulting Track?](#what-is-the-tech-consulting-track)
+    + [How will it work?](#how-will-it-work)
       - [Workflow](#workflow)
-      - [Fun bonding!](#fun-bonding-)
-  * [What is the time commitment?](#what-is-the-time-commitment-)
-    + [Hours per week](#hours-per-week-)
+      - [Fun bonding!](#fun-bonding)
+  * [What is the time commitment?](#what-is-the-time-commitment)
+    + [Hours per week](#hours-per-week)
   * [Our Client](#our-client)
     + [Company Introduction](#company-introduction)
     + [What we are building](#what-we-are-building)
       - [Tools](#tools-)
   * [Engineering Roles](#engineering-roles)
-  * [Questions?](#questions-)
+  * [Questions?](#questions)
 
 
 ## What is the Tech Consulting Track?
