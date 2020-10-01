@@ -129,13 +129,13 @@ their database (MongoDB, ElasticSearch). We will write unit tests for this API
 There will be three engineering roles in the Tech Track.
 
 We are looking to have:
-1. 2 Technical Team Leads
+1. 2 Technical Project Manager
 2. 3 Senior Software Engineers
 3. 2-3 Junior Software Engineers
 
 <details>
-  <summary><b>1. Technical Team Lead</b></summary>
-  The Technical Team Lead will be responsible for helping oversee the technical
+  <summary><b>1. Technical Project Manager</b></summary>
+  The Technical Project Manager will be responsible for helping oversee the technical
   aspect of the application in collaboration with the VP of Tech Consulting.
   They will be making large-scale contributions to the project.
 
