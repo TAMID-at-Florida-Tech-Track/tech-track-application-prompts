@@ -10,8 +10,6 @@
 
 
 ## Introduction    
-This application will be live from July 17th to July 31st at 11:59 PM EST.
-
 These challenges are meant to test your ability in a variety of topics, such as programming, debugging, and documenting code.
 
 Each application varies in their expected time length. Overall, all of these
@@ -24,6 +22,7 @@ role (you would be considered for Senior/Junior Software Engineer if you do not 
 You only need to complete one of these challenges.
 
 ## Rules
+* For the Junior and Senior Software Engineer Positions, you only have to complete 2 out of the 4 challenges.
 * You may complete the application in **any programming language.**
 * You may google whatever you would like (*yes, you really can do that in the
 real world!*). Just don't blatantly copy and paste an entire solution to a
