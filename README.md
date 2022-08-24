@@ -1,4 +1,4 @@
-# TAMID at Brandeis Tech Consulting Track
+# TAMID at Florida Tech Consulting Track
 
 - [TAMID at Brandeis Tech Consulting Track](#tamid-at-brandeis-tech-consulting-track)
   * [What is the Tech Consulting Track?](#what-is-the-tech-consulting-track)
