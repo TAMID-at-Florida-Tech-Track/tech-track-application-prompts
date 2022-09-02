@@ -1,4 +1,4 @@
-# Tech Team Lead Application
+# Technical Project Manager Application
 For your application, it is highly recommended that you comment your code as
 clearly as possible. Make sure to remember important software engineering
 principles:
@@ -6,7 +6,7 @@ principles:
 * DRY (Don't Repeat Yourself!)
 * KISS (Keep It Simple Silly!)
 
-Part of the Tech Team Lead's responsibility is doing code reviews, and
+Part of the Technical Project Manager's responsibility is doing code reviews, and
 mentoring/teaching others. You should be able to well-document your code so it
 is easily readable so that a Senior/Junior Software Engineer could understand what you
 are doing.
